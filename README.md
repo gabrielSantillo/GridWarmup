@@ -1,0 +1,1 @@
+A warmup about how to use grid on header, main and footer
